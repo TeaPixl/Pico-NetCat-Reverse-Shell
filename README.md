@@ -45,3 +45,6 @@ It will disable `Windows Security` temporarily and execute the script quickly.
 
 Then it is safe to unplug your USB and go to your `Linux` machine
 You should then have a fully interactive `Windows Terminal` with control over the computer!.
+
+## Known Issues
+Occasional unreliability and disconnection, cause is unknown

@@ -23,7 +23,7 @@ Put the `adafruit.hid` folder inside of the Pico's `lib` folder.
 
 3. Then, save [this](https://raw.githubusercontent.com/dbisu/pico-ducky/main/duckyinpython.py) and save it as `code.py` and put it inside the Pico's root.
 
-4. Finally, download the [.dd](https://github.com/TeaPixl/Pico-NetCat-Reverse-Shell/blob/main/payload.dd) file and save it as payload.dd on your Pico's root.
+4. Finally, download the [payload.dd](https://github.com/TeaPixl/Pico-NetCat-Reverse-Shell/blob/main/payload.dd) file and save it as payload.dd on your Pico's root.
 
 To create your own Payloads, you can use the [USB-Rubber-Ducky-Wiki](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) by [Hak5](https://shop.hak5.org/) and create your own `payload.dd` files and upload them to the Pico.
 
